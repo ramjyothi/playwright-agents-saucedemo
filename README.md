@@ -1,5 +1,7 @@
 # Playwright Agents: SauceDemo E2E Automation
 
+![Playwright Tests](https://github.com/ramjyothi/playwright-agents-saucedemo/actions/workflows/playwright.yml/badge.svg)
+
 End-to-end UI test automation for [saucedemo.com](https://www.saucedemo.com), built with **Playwright + TypeScript**. The tests were created with Playwright's AI agents (planner, generator, healer) in VS Code, then reviewed and refined by me.
 
 ## Scenarios covered
